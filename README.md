@@ -27,4 +27,4 @@ A simple web-based Lost and Found system where users can post and browse lost or
 
 ## Quick Note
 
-If you are new to running PHP projects: extract the project, install XAMPP, open the folder in VS Code, and follow the steps above. there is readme.md in there so that you can see the feautures 
+If you are new to running PHP projects: extract the project, install XAMPP, open the folder in VS Code, and let github copilot do the work there is readme.md in there so that you can see the feautures 
